@@ -1,0 +1,12 @@
+# Ignore system and protected directories
+**/AppData/*
+**/ProgramData/*
+**/Windows/*
+**/Temp/*
+**/System Volume Information/*
+**/Recovery/*
+**/Documents/My Music/*
+**/Documents/My Pictures/*
+**/Documents/My Videos/*
+**/Local Settings/*
+ 
